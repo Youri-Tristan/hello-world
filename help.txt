@@ -1,0 +1,13 @@
+mkdir <Directory>
+ls
+cd <Directory>
+git init
+git status
+git add <Filename> (or . for everything)
+git commit -m "<Message>"
+git push
+git pull
+git branch <Branchname> (Creates Branch)
+git checkout <Branchname> (Visits Branch)
+git push -u origin <Branchname>
+git merge <Branchname> (Pull the branch into your branch)
